@@ -1,5 +1,4 @@
 # TimeFlow
-Personal Time Management System
 A modern time management and time tracking application built with C# and the .NET ecosystem.
 
 TimeFlow started as a personal learning project to deepen my knowledge of C#, software architecture, databases, and modern .NET development practices. At the same time, it solves a real problem: after several useful features in my favorite time management app became part of their paid plans, I decided to build my own solution that I can fully customize and use on a daily basis.
